@@ -1,0 +1,45 @@
+.navbar-default .navbar-brand{
+    color: black;
+}
+
+.navbar-default .navbar-nav>li>a{
+    color:black;
+}
+.navbar-default .navbar-nav>li>a:hover{
+    color:#5e5e5e;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
+    color:black;
+}
+
+
+/* Customize container */
+
+.cont {
+    max-width: 730px;
+  }
+
+.border{
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+
+}
+
+.cont-margin{
+    margin-top: 50px;
+}
+
+.mt {
+    margin-top:60px;
+}
+
+.modal-content  {
+    -webkit-border-radius: 0px !important;
+    -moz-border-radius: 0px !important;
+    border-radius: 25px !important; 
+}
+
+.modal-header {
+    border-bottom: 0px !important;
+    }
